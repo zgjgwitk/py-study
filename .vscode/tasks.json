@@ -1,13 +1,43 @@
+// {
+//     "version": "2.0.0",
+//     "tasks": [
+//         {
+//             "label": "echo",
+//             "type": "shell",
+//             "command": "python",
+//             "args": [
+//                 "${file}"
+//             ],
+//             "group": {
+//                 "kind": "build",
+//                 "isDefault": true
+//             }
+//         }
+//     ]
+// }
 {
     "version": "2.0.0",
+    // 在Linux和Mac系统中使用"sh".
+    "command": "cmd",
+    // global args
+    // 在Linux和Mac系统中使用"-c"(注意大小写).
+    "args": ["/C"],
+    "presentation": {
+        "echo": true,
+        "reveal": "always",
+        "focus": false,
+        "panel": "shared"
+    },
     "tasks": [
         {
-            "label": "echo",
+            "label": "py2",
             "type": "shell",
-            "command": "python",
-            "args": [
-                "${file}"
-            ],
+            // task args
+            "args": ["${file}"],
+        },
+        {
+            "label": "python",
+            "args": ["${file}"],
             "group": {
                 "kind": "build",
                 "isDefault": true

@@ -9,7 +9,8 @@
             "type": "python",
             "request": "launch",
             "stopOnEntry": false,//是否在第一条语句时程序停止，下面的这个选项都一样
-            "pythonPath": "C:\\Python\\Python36-32",//可执行文件路径
+            "pythonPath": "C:\\Python27",//可执行文件路径
+            //"pythonPath": "C:\\Python\\Python36-32",//可执行文件路径
             "program": "${file}",
             "cwd": "${workspaceRoot}",
             "env": {},
