@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 #print('heehda')
 s = "ABCD"
 b = bytearray()
