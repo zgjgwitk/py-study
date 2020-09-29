@@ -1,0 +1,17 @@
+D:\Code\Test\PythonCall\CallProj\bin\Release\netcoreapp3.1\appSettings.json
+D:\Code\Test\PythonCall\CallProj\bin\Release\netcoreapp3.1\CallProj.deps.json
+D:\Code\Test\PythonCall\CallProj\bin\Release\netcoreapp3.1\CallProj.dll
+D:\Code\Test\PythonCall\CallProj\bin\Release\netcoreapp3.1\CallProj.pdb
+D:\Code\Test\PythonCall\CallProj\obj\Release\netcoreapp3.1\CallProj.csprojAssemblyReference.cache
+D:\Code\Test\PythonCall\CallProj\obj\Release\netcoreapp3.1\CallProj.csproj.CoreCompileInputs.cache
+D:\Code\Test\PythonCall\CallProj\obj\Release\netcoreapp3.1\CallProj.AssemblyInfoInputs.cache
+D:\Code\Test\PythonCall\CallProj\obj\Release\netcoreapp3.1\CallProj.AssemblyInfo.cs
+D:\Code\Test\PythonCall\CallProj\obj\Release\netcoreapp3.1\CallProj.dll
+D:\Code\Test\PythonCall\CallProj\obj\Release\netcoreapp3.1\CallProj.pdb
+D:\Code\Test\PythonCall\CallProj\bin\Release\netcoreapp3.1\CallLibrary.dll
+D:\Code\Test\PythonCall\CallProj\bin\Release\netcoreapp3.1\CallLibrary.pdb
+D:\Code\Test\PythonCall\CallProj\obj\Release\netcoreapp3.1\CallProj.csproj.CopyComplete
+D:\Code\Test\PythonCall\CallProj\bin\Release\netcoreapp3.1\CallProj.exe
+D:\Code\Test\PythonCall\CallProj\bin\Release\netcoreapp3.1\CallProj.runtimeconfig.json
+D:\Code\Test\PythonCall\CallProj\bin\Release\netcoreapp3.1\CallProj.runtimeconfig.dev.json
+D:\Code\Test\PythonCall\CallProj\obj\Release\netcoreapp3.1\CallProj.genruntimeconfig.cache

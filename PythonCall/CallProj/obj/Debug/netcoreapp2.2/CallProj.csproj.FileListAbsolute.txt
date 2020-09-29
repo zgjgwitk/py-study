@@ -1,0 +1,16 @@
+D:\Code\Test\PythonCall\CallProj\bin\Debug\netcoreapp2.2\appSettings.json
+D:\Code\Test\PythonCall\CallProj\bin\Debug\netcoreapp2.2\CallProj.deps.json
+D:\Code\Test\PythonCall\CallProj\bin\Debug\netcoreapp2.2\CallProj.runtimeconfig.json
+D:\Code\Test\PythonCall\CallProj\bin\Debug\netcoreapp2.2\CallProj.runtimeconfig.dev.json
+D:\Code\Test\PythonCall\CallProj\bin\Debug\netcoreapp2.2\CallProj.dll
+D:\Code\Test\PythonCall\CallProj\bin\Debug\netcoreapp2.2\CallProj.pdb
+D:\Code\Test\PythonCall\CallProj\bin\Debug\netcoreapp2.2\CallLibrary.dll
+D:\Code\Test\PythonCall\CallProj\bin\Debug\netcoreapp2.2\CallLibrary.pdb
+D:\Code\Test\PythonCall\CallProj\obj\Debug\netcoreapp2.2\CallProj.csprojAssemblyReference.cache
+D:\Code\Test\PythonCall\CallProj\obj\Debug\netcoreapp2.2\CallProj.AssemblyInfoInputs.cache
+D:\Code\Test\PythonCall\CallProj\obj\Debug\netcoreapp2.2\CallProj.AssemblyInfo.cs
+D:\Code\Test\PythonCall\CallProj\obj\Debug\netcoreapp2.2\CallProj.csproj.CopyComplete
+D:\Code\Test\PythonCall\CallProj\obj\Debug\netcoreapp2.2\CallProj.dll
+D:\Code\Test\PythonCall\CallProj\obj\Debug\netcoreapp2.2\CallProj.pdb
+D:\Code\Test\PythonCall\CallProj\obj\Debug\netcoreapp2.2\CallProj.genruntimeconfig.cache
+D:\Code\Test\PythonCall\CallProj\obj\Debug\netcoreapp2.2\CallProj.csproj.CoreCompileInputs.cache

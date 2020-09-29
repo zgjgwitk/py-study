@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "dQ19vsO8K8C9VyzJ0R4KNgF604VqSU34/zyDUuNKPn6ohVuii8mkCJ4p9w4FjHO1TqmoMUBVhG8iBsd4C1tqyQ==",
+  "success": true,
+  "projectFilePath": "D:\\Code\\Test\\PythonCall\\CallProj\\CallProj.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\zgjgw\\.nuget\\packages\\microsoft.netcore.app.runtime.linux-x64\\3.1.2\\microsoft.netcore.app.runtime.linux-x64.3.1.2.nupkg.sha512",
+    "C:\\Users\\zgjgw\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.linux-x64\\3.1.2\\microsoft.aspnetcore.app.runtime.linux-x64.3.1.2.nupkg.sha512",
+    "C:\\Users\\zgjgw\\.nuget\\packages\\microsoft.netcore.app.host.linux-x64\\3.1.2\\microsoft.netcore.app.host.linux-x64.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
