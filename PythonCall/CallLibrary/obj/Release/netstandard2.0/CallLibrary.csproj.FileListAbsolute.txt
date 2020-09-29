@@ -1,9 +1,0 @@
-D:\Code\Test\PythonCall\CallLibrary\bin\Release\netstandard2.0\CallLibrary.deps.json
-D:\Code\Test\PythonCall\CallLibrary\bin\Release\netstandard2.0\CallLibrary.dll
-D:\Code\Test\PythonCall\CallLibrary\bin\Release\netstandard2.0\CallLibrary.pdb
-D:\Code\Test\PythonCall\CallLibrary\obj\Release\netstandard2.0\CallLibrary.csprojAssemblyReference.cache
-D:\Code\Test\PythonCall\CallLibrary\obj\Release\netstandard2.0\CallLibrary.csproj.CoreCompileInputs.cache
-D:\Code\Test\PythonCall\CallLibrary\obj\Release\netstandard2.0\CallLibrary.AssemblyInfoInputs.cache
-D:\Code\Test\PythonCall\CallLibrary\obj\Release\netstandard2.0\CallLibrary.AssemblyInfo.cs
-D:\Code\Test\PythonCall\CallLibrary\obj\Release\netstandard2.0\CallLibrary.dll
-D:\Code\Test\PythonCall\CallLibrary\obj\Release\netstandard2.0\CallLibrary.pdb
